@@ -1,0 +1,4 @@
+com\mycompany\summative3\dao\VendDaoInMemo.class
+com\mycompany\summative3\service\VendServiceLayerImplTest.class
+com\mycompany\summative3\dao\VendDaoFileImplTest.class
+com\mycompany\summative3\dao\AlwaysFailVendDao.class
